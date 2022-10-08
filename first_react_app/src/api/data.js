@@ -12,4 +12,5 @@ export async function getData(url){
     }catch(error){
         throw error;
     }
+    
 }
