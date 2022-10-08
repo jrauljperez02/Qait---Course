@@ -1,0 +1,8 @@
+.grid{
+    display: flex
+}
+.grid_item{
+    border: 1px solid #ccc;
+    padding: 0 20px;
+}
+
